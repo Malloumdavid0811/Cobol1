@@ -1,0 +1,3 @@
+Please rename the name of the file from hercules.txt to hercules.cnf before copying to your Hercules folder.
+
+There are some limitation in Udemy where i am not allowed to upload the .cnf file.
